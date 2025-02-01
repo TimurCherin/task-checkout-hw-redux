@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/task-checkout-hw-redux/static/css/main.80a98fff.css",
+    "main.js": "/task-checkout-hw-redux/static/js/main.ceabf2a2.js",
+    "index.html": "/task-checkout-hw-redux/index.html",
+    "main.80a98fff.css.map": "/task-checkout-hw-redux/static/css/main.80a98fff.css.map",
+    "main.ceabf2a2.js.map": "/task-checkout-hw-redux/static/js/main.ceabf2a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80a98fff.css",
+    "static/js/main.ceabf2a2.js"
+  ]
+}
